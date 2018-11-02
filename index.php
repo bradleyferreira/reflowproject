@@ -15,36 +15,39 @@
             <h1>Reflow Project</h1>
             <div class="mySubtitle">A series of sites to help you visualize nature and the passing of time</br></div>
             <div class="mySubtitle2">More to come, too.</div>
-            <div class="linkMenu">
+        </div>
+        <div class="linkMenu">
 
-                <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="assets/img/cal.png" alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Reflow Calendar</h5>
-                        <p class="card-text">Pivot the calendar to remove extra information.</p>
-                        <a href="../reflowcalendar" class="btn btn-primary">Visit Site</a>
-                    </div>
+            <div class="card">
+                <img class="card-img-top" src="assets/img/cal.png">
+                <div class="card-body">
+                    <h5 class="card-title">Reflow Calendar</h5>
+                    <p class="card-text">Pivot the calendar to remove extra information.</p>
+                    <a href="../reflowcalendar" class="btn btn-primary">Visit Site</a>
                 </div>
+            </div>
 
-                <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="assets/img/circ.png" alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Reflow Circadian</h5>
-                        <p class="card-text">Follow the sun's patterns and catch the golden hour every day.</p>
-                        <a href="../reflowcircadian" class="btn btn-primary">Visit Site</a>
-                    </div>
+
+            <div class="card">
+                <img class="card-img-top" src="assets/img/circ.png">
+                <div class="card-body">
+                    <h5 class="card-title">Reflow Circadian</h5>
+                    <p class="card-text">Follow the sun's patterns and catch the golden hour every day.</p>
+                    <a href="../reflowcircadian" class="btn btn-primary">Visit Site</a>
                 </div>
+            </div>
 
-                <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="assets/img/therm.png" alt="Card image cap">
-                    <div class="card-body">
-                        <h5 class="card-title">Reflow Thermal</h5>
-                        <p class="card-text">Convert and chart temperature relationships between F and C.</p>
-                        <a href="../reflowthermal" class="btn btn-primary">Visit Site</a>
-                    </div>
+
+            <div class="card">
+                <img class="card-img-top" src="assets/img/therm.png">
+                <div class="card-body">
+                    <h5 class="card-title">Reflow Thermal</h5>
+                    <p class="card-text">Convert and chart temperature relationships between F and C.</p>
+                    <a href="../reflowthermal" class="btn btn-primary">Visit Site</a>
                 </div>
             </div>
         </div>
+
     </div>
 </div>
 </body>
