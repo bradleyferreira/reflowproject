@@ -14,7 +14,7 @@
         <div class="col-sm-12">
             <h1>Reflow Project</h1>
             <div class="mySubtitle">A series of sites to help you visualize nature and the passing of time</br></div>
-            <div class="mySubtitle2">For those who are cool</div>
+            <div class="mySubtitle2">More to come, too.</div>
             <div class="linkMenu">
 
                 <div class="card" style="width: 18rem;">
